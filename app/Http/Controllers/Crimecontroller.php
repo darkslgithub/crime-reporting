@@ -6,5 +6,8 @@ use Illuminate\Http\Request;
 
 class Crimecontroller extends Controller
 {
-    
+    public function()
+    {
+
+    }
 }
